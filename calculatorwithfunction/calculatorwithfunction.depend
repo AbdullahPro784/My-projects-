@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1669911780 source:c:\users\abdul\documents\calculatorwithfunction\main.cpp
+	<iostream>
+	<cmath>
+
+1669911780 source:e:\back\doc\calculatorwithfunction\main.cpp
+	<iostream>
+	<cmath>
+
